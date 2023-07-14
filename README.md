@@ -27,7 +27,7 @@ Here are some audio samples you can use for your drum machine:
  - Closed-HH
 
 # Solution Challenge
-
+In this challenge I tried to get as close as possible to your solution:
 - Live Site URL: [Codepen](https://codepen.io/Andr-s-Fernando-Sanchez-Galarza/pen/JjmqNZK)
 
 # Author
